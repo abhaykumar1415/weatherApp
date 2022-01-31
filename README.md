@@ -20,5 +20,3 @@ npm start
 
 ## Tech
 - ReactJS 17.0.2
-
-
